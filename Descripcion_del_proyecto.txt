@@ -1,0 +1,31 @@
+VERSION ESPAÑOL.
+
+- Descripción del proyecto: Análisis de ventas de propiedades en Washington D.C.
+- Los datos recopilados se refieren a precios y características de los inmuebles.
+  
+Python: hemos enfocado nuestro trabajo en el Análisis Exploratorio de Datos (EDA) y hemos logrado un modelo con un 0.71% de aciertos.
+
+- Resumen del análisis en SQL y Tableau de lo que hemos vivido.
+  
+Un total de aproximadamente 21,500 viviendas. El año medio de construcción es 1971 y el precio medio de todas las ventas ronda los 540,000 dólares. Las viviendas más vendidas son las de 3 y 4 dormitorios, seguidas por las de 2 y 5 dormitorios. Al observar la distribución de precios por sqft above, notamos que la mayoría está por debajo del millón y en el rango de 1000-3000 sqft. Hemos identificado algunos outliers, que hemos decidido mantener, ya que en este contexto podríamos encontrarnos con viviendas de lujo.
+  
+Se han vendido muchas viviendas construidas a partir de 1970. Las condiciones del inmueble, la presencia de vistas, la ubicación, el número de dormitorios y otros factores son determinantes en el proceso de venta.
+
+A través del dashboard observamos que mayormente, la condicion de las casas en venta, es bastante buena, y que a partir de 2015 se observa una caida notable en la venta de casas.
+
+-----------------------------------------
+
+ENGLISH VERSION.
+
+- Project Description: Analysis of property sales in Washington D.C.
+- The data collected refers to prices and characteristics of the properties.
+  
+Python: we have focused our work on Exploratory Data Analysis (EDA) and we have achieved a model with 0.71% correctness.
+
+- Summary of the analysis in SQL and Tableau of what we have experienced.
+  
+A total of approximately 21,500 homes. The average year of construction is 1971 and the average price of all sales is around $540,000. The most sold homes are those with 3 and 4 bedrooms, followed by those with 2 and 5 bedrooms. Looking at the price distribution per sqft above, we notice that most are under a million and in the 1000-3000 sqft range. We have identified some outliers, which we have decided to maintain, since in this context we could find luxury homes.
+  
+Many homes built after 1970 have been sold. The condition of the property, the presence of views, the location, the number of bedrooms and other factors are determining factors in the sales process.
+
+Through the dashboard we observe that, for the most part, the condition of the houses for sale is quite good, and that since 2015 there has been a notable drop in the sale of houses.
